@@ -1,4 +1,4 @@
-# Brooke & Matt — Wedding Website
+# Brooke & Matt — Wedding Website  
 
 A private wedding website and guest portal: public wedding info, name-based
 guest login, a real RSVP flow backed by Postgres (Supabase), and a hidden
