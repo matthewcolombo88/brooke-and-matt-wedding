@@ -1,4 +1,4 @@
-# Swapping photos
+# Swapping photos 
 
 - `hero/hero-main.jpg` — the full-bleed homepage & portal hero image.
 - `story/` — the four "Our Story" chapter photos, plus the moments strip
