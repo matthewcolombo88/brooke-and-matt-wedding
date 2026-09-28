@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#363822"/>
+      <stop offset="100%" stop-color="#5E6239"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g2)"/>
+  <g transform="translate(400,255)" stroke="#F3EADA" stroke-width="2.5" fill="none" opacity="0.85">
+    <circle cx="0" cy="-10" r="34"/>
+    <path d="M-45,60 C-45,10 -25,-15 0,-15 C25,-15 45,10 45,60 Z"/>
+    <path d="M-45,60 L45,60"/>
+  </g>
+  <text x="400" y="370" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#F3EADA" text-anchor="middle" letter-spacing="1">Doltone House Western Sydney</text>
+  <text x="400" y="400" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#DECB9D" text-anchor="middle" letter-spacing="3">LA BOHEME · BOSSLEY PARK</text>
+</svg>

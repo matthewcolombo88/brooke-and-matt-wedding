@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3F0F1C"/>
+      <stop offset="100%" stop-color="#6B1E33"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g1)"/>
+  <g transform="translate(400,255)" stroke="#F3EADA" stroke-width="2.5" fill="none" opacity="0.85">
+    <path d="M0,-70 L0,-40" />
+    <path d="M-16,-56 L16,-56" />
+    <path d="M-55,60 L-55,-10 L0,-55 L55,-10 L55,60 Z" />
+    <path d="M-22,60 L-22,10 L22,10 L22,60" />
+    <path d="M-55,60 L55,60" />
+  </g>
+  <text x="400" y="370" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#F3EADA" text-anchor="middle" letter-spacing="1">Holy Family Catholic Church</text>
+  <text x="400" y="400" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#DECB9D" text-anchor="middle" letter-spacing="3">INGLEBURN, NSW</text>
+</svg>
